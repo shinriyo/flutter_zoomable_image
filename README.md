@@ -2,6 +2,10 @@
 
 A dart+flutter package for panning and zooming images by touch.
 
+`zoomable_image` is no more fix.
+use better plugin.
+https://pub.dev/packages/photo_view
+
 ## Getting Started
 
 ```
